@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712929527319",
+    "project_id": "timelink-42881",
+    "storage_bucket": "timelink-42881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712929527319:android:00cf66044c204ac9babe52",
+        "android_client_info": {
+          "package_name": "com.example.officedev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712929527319-3su6hl6n45dk6n69m869mr6dp6gdbrml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.officedev",
+            "certificate_hash": "799588ce0169c21d194dfd86501b3767e2894778"
+          }
+        },
+        {
+          "client_id": "712929527319-s3o2b6jd0nqgd0m9h7l2649cpd54t5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHF-rmusvBTDyfoxyarqAPucwTxNvik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712929527319-s3o2b6jd0nqgd0m9h7l2649cpd54t5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
